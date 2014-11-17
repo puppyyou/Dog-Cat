@@ -1,0 +1,39 @@
+      body 
+          {
+          	background-color: #ffffff;
+          	color: #000000;  
+          	font-family: 'curious', sans-serif;  
+          }
+
+          #container{
+          	width: 80%;
+          	height: 80%;
+          	margin-left: auto;
+          	margin-right: auto;
+          }
+	    h1 {
+	    	/*position: fixed;*/
+	    	color:#FF3366; 
+	    	font-family: "bebas", sans-serif; 
+	    	font-size: 24px;       
+		    padding: 20px 50px 20px 10px;
+		   }
+		 
+		 .insta-item{
+		   display:inline;
+           padding-top: 50px;
+		   padding-bottom: 50px;
+		   padding-left: 10px;	
+	       margin-right: 80px;
+	       background: #99FFCC;
+	       height :100px; 
+	       width: 80%;
+}
+		  #form {
+		  	font-size: 14px;
+		  	margin-top: 5%;
+		 	font-family: 'curious', sans-serif;		
+		 	color:#CC0066; 	
+		 	/*margin-top: 30px;*/
+		 	margin-left: 30px;
+		 	}
